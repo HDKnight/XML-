@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <head>
+    <code>1</code>
+    <message>数据下载成功！</message>
+    <rownum>100</rownum>
+  </head>
+  <body>
+    <vehispara id="0">
+      <shbtgyy/>
+      <bhgdtdpjyxm/>
+      <bhgjyxm/>
+      <bhggwzp/>
+      <bhgzlzp/>
+      <bhgcyxm/>
+      <bhgcyzp/>
+      <hphm>冀BWM550</hphm>
+      <bhgdpjyxm/>
+      <shjg>4</shjg>
+      <jyjgbh>1302000013</jyjgbh>
+      <jylsh>13B03117042800002</jylsh>
+      <bhgwgjyxm/>
+      <hpzl>07</hpzl>
+    </vehispara>
+    <vehispara id="1">
+      <shbtgyy/>
+      <bhgdtdpjyxm/>
+      <bhgjyxm/>
+      <bhggwzp/>
+      <bhgzlzp/>
+      <bhgcyxm/>
+      <bhgcyzp/>
+      <hphm>冀BWG802</hphm>
+      <bhgdpjyxm/>
+      <shjg>4</shjg>
+      <jyjgbh>1302000013</jyjgbh>
+      <jylsh>13B03117050300001</jylsh>
+      <bhgwgjyxm/>
+      <hpzl>07</hpzl>
+    </vehispara>
+
+    <vehispara id="2">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BC737Y</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13000131807190075</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>02</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="3">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BR4280CS</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117030400001</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>01</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="4">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BU7737CS</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117030400007</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>01</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="5">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BU7736CS</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117030400011</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>01</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="6">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BU7734CS</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117030400017</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>01</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="7">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BXE337</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03116090800009</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="8">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BWP533</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B031171021017</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="9">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BW58CS</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117082100001</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="10">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BWW010</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117071900016</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="11">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BZC707</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117081000006</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="12">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+
+      <hphm>冀BWX771</hphm>
+
+      <bhgdpjyxm/>
+
+      <shjg>4</shjg>
+
+      <jyjgbh>1302000013</jyjgbh>
+
+      <jylsh>13B03117030200007</jylsh>
+
+      <bhgwgjyxm/>
+
+      <hpzl>07</hpzl>
+
+    </vehispara>
+
+
+    <vehispara id="13">
+
+      <shbtgyy/>
+
+      <bhgdtdpjyxm/>
+
+      <bhgjyxm/>
+
+      <bhggwzp/>
+
+      <bhgzlzp/>
+
+      <bhgcyxm/>
+
+      <bhgcyzp/>
+      <hphm>冀BXE501</hphm>
+      <bhgdpjyxm/>
+      <shjg>4</shjg>
+      <jyjgbh>1302000013</jyjgbh>
+      <jylsh>13B03116091900013</jylsh>
+      <bhgwgjyxm/>
+      <hpzl>07</hpzl>
+    </vehispara>
+  </body>
+</root>
